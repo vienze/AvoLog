@@ -4,7 +4,7 @@ Sebuah form login yang simpel dengan nama AvoLog.
 
 ## Demo
 
-- [AvoLog](https://Herudin1998.github.io/AvoLog)
+- [AvoLog](https://vienze.github.io/AvoLog)
 
 ## Feedback
 
